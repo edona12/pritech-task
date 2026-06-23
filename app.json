@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Pritech Task",
+    "slug": "pritech-task",
+    "scheme": "pritechtask",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"]
+  }
+}
